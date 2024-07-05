@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862693192649",
+    "project_id": "heytextapp-2b529",
+    "storage_bucket": "heytextapp-2b529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862693192649:android:85cca14d8cb4050dfaae18",
+        "android_client_info": {
+          "package_name": "com.example.hey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzLNMpMusRVdaBIuX9VSDAukoy-QTKgxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862693192649:android:17bb57878d2c22eefaae18",
+        "android_client_info": {
+          "package_name": "com.example.hey_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzLNMpMusRVdaBIuX9VSDAukoy-QTKgxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
